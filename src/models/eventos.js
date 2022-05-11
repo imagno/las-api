@@ -1,4 +1,4 @@
-const repositorio = require("../repositorio/evento");
+const repositorio = require("../repositorios/evento");
 const moment = require("moment");
 
 class Eventos {
